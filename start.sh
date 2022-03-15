@@ -1,0 +1,1 @@
+python macro/main/main.py

@@ -1,0 +1,8 @@
+scripts/
+*.log
+img/
+cache/
+.vscode/
+.qt_for_python/
+.VSCodeCounter/
+*.wav
