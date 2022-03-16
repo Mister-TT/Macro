@@ -13,19 +13,19 @@
 
 #### 1. 编辑界面
 
-![编辑界面](picture\编辑界面.png)
+![编辑界面](https://github.com/Mister-TT/Macro/blob/main/picture/editor.png)
 
 #### 2. 设置界面
 
-![设置界面](picture\设置界面.png)
+![设置界面](https://github.com/Mister-TT/Macro/blob/main/picture/setting.png)
 
 #### 3. 文件界面（黑夜模式）
 
-![文件界面](picture\文件界面.png)
+![文件界面](https://github.com/Mister-TT/Macro/blob/main/picture/file.png)
 
 #### 4. 帮助界面
 
-![帮助界面](picture\帮助界面.png)
+![帮助界面](https://github.com/Mister-TT/Macro/blob/main/picture/help.png)
 
 
 
@@ -53,7 +53,7 @@ sh install.sh
 ## 项目启动方式
 
 ~~~shell
-python macro/main/main.py
+sh start.sh
 ~~~
 
 ## 目录结构
