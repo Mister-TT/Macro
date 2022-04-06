@@ -46,7 +46,7 @@
 
 ## 安装项目基础依赖
 
-```
+```shell
 sh install.sh
 ```
 
